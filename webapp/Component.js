@@ -5,6 +5,7 @@ sap.ui.define([
 ], function(UIComponent, Device, models) {
 	"use strict";
 
+
 	return UIComponent.extend("www.abcconsulting.ru.Component", {
 
 		metadata: {
